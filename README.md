@@ -1,4 +1,4 @@
-# simplest-gatsby-project
+# simplest-gatsby-and-tailwindcss-starter
 
 
 ## Install Dependencies
